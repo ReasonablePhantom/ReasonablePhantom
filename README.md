@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://c-ssl.dtstatic.com/uploads/item/201810/29/20181029222614_cldjr.thumb.300_0.jpeg_webp" alt="艾米莉亚" width="300" />
+
 <!--
 **ReasonablePhantom/ReasonablePhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
