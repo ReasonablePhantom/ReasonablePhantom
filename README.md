@@ -3,6 +3,7 @@
 <img src="https://c-ssl.dtstatic.com/uploads/item/201810/29/20181029222614_cldjr.thumb.300_0.jpeg_webp" alt="艾米莉亚" width="300" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ReasonablePhantom&layout=compact&theme=transparent" alt="常用语言" />
 <img src="https://github-readme-stats.shion.dev/api?username=ReasonablePhantom&show_icons=true&theme=transparent" alt="我的 GitHub 数据" />
+<img src="https://github-readme-stats.shion.dev/api?username=xiaomanong007&show_icons=true&theme=transparent" alt="Leo的 GitHub 数据" />
 
 <!--
 **ReasonablePhantom/ReasonablePhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
